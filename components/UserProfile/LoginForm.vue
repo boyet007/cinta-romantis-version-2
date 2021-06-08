@@ -9,7 +9,7 @@
             placeholder="Alamat email"
             v-model="user.email"
           >
-          </base-input>   
+          </base-input>
         </div>
       </div>
 
@@ -20,13 +20,22 @@
             placeholder="Password"
             v-model="user.password"
           >
-          </base-input>   
+          </base-input>
         </div>
       </div>
 
-      <base-button native-type="submit" type="primary" class="btn-fill">
+      <base-button native-type="submit" type="primary" class="btn-block btn-primary">
         Submit
       </base-button>
+
+      <div class="row">
+        <div class="col-12">
+          <a href="#" class="text-white">Lupa Password</a>
+        </div>
+      </div>
+      <div class="row col-12">
+        <a href="#" class="text-white">Daftar Akun Baru</a>
+      </div>
     </form>
   </card>
 </template>
@@ -35,16 +44,16 @@ export default {
   data() {
     return {
       user: {
-        email: 'user@yahoo.com',
-       password: '123456'
-      }
+        email: "user@yahoo.com",
+        password: "123456",
+      },
     };
   },
   methods: {
     updateProfile() {
-      alert('Your data: ' + JSON.stringify(this.user));
-    }
-  }
+      alert("Your data: " + JSON.stringify(this.user));
+    },
+  },
 };
 </script>
 <style></style>
