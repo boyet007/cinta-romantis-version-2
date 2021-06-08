@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-      <img :src="image" class="image" />
+      <img :src="image_src" class="image" />
                   <h1 class="position-absolute judul">Cinta Romantis</h1>
             <h2 class="position-absolute subjudul">Awal Kehidupan Baru</h2> 
   </div>
@@ -8,10 +8,9 @@
 
 <script>
 export default {
-    data() {
-        return {
-            image: require('@/static/img/wedding.jpg')
-        }
+    
+    props: {
+        image_src: String
     }
 };
 </script>

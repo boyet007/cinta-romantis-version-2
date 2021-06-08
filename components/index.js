@@ -2,6 +2,7 @@ import BaseCheckbox from './Inputs/BaseCheckbox.vue';
 import BaseAlert from './BaseAlert.vue';
 import IconCheckbox from './Inputs/IconCheckbox.vue';
 import BaseRadio from './Inputs/BaseRadio.vue';
+import BaseSelect from './Inputs/BaseSelect.vue';
 import BaseInput from './Inputs/BaseInput.vue';
 import BaseSwitch from './BaseSwitch.vue';
 import Badge from './Badge';
@@ -27,25 +28,26 @@ import SidebarPlugin from './SidebarPlugin';
 
 
 export {
-  BaseCheckbox,
-  IconCheckbox,
-  BaseSwitch,
-  Badge,
-  BaseAlert,
-  BaseProgress,
-  BasePagination,
-  BaseRadio,
-  BaseInput,
-  Card,
-  BaseTable,
-  BaseDropdown,
-  SidebarPlugin,
-  BaseNav,
-  NavbarToggleButton,
-  Breadcrumb,
-  BreadcrumbItem,
-  RouteBreadCrumb,
-  Modal,
-  BaseButton,
-  LoadingPanel
+    BaseCheckbox,
+    IconCheckbox,
+    BaseSwitch,
+    Badge,
+    BaseAlert,
+    BaseProgress,
+    BasePagination,
+    BaseRadio,
+    BaseSelect,
+    BaseInput,
+    Card,
+    BaseTable,
+    BaseDropdown,
+    SidebarPlugin,
+    BaseNav,
+    NavbarToggleButton,
+    Breadcrumb,
+    BreadcrumbItem,
+    RouteBreadCrumb,
+    Modal,
+    BaseButton,
+    LoadingPanel
 };

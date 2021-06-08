@@ -10,9 +10,11 @@
     }"
   >
     <slot name="label">
-        <label v-if="label"> {{ label }} {{ required ? '*' : '' }} </label>
+      <div class="col-md-4" v-if="label">
+                <label> {{ label }} {{ required ? '*' : '' }} </label>
+      </div>
     </slot>
-    <div class="mb-0" :class="{'input-group': hasIcon}">
+    <div class="col-md-8 mb-2" :class="{'input-group': hasIcon}">
       <slot name="addonLeft">
         <span v-if="addonLeftIcon" class="input-group-prepend">
           <div class="input-group-text"><i :class="addonLeftIcon"></i></div>
@@ -43,7 +45,7 @@
 <script>
 export default {
   inheritAttrs: false,
-  name: 'base-input',
+  name: 'base-select',
   props: {
     required: Boolean,
     label: {

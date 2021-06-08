@@ -11,7 +11,7 @@
           :link="{
             name: $t('sidebar.dashboard'),
             icon: 'tim-icons icon-chart-pie-36',
-            path: '/'
+            path: '/template'
           }"
         >
         </sidebar-item>
@@ -19,7 +19,7 @@
           :link="{
             name: $t('sidebar.icons'),
             icon: 'tim-icons icon-atom',
-            path: '/icons'
+            path: '/template/icons'
           }"
         >
         </sidebar-item>
@@ -27,7 +27,7 @@
           :link="{
             name: $t('sidebar.maps'),
             icon: 'tim-icons icon-pin',
-            path: '/google'
+            path: '/template/google'
           }"
         >
         </sidebar-item>
@@ -36,7 +36,7 @@
           :link="{
             name: $t('sidebar.notifications'),
             icon: 'tim-icons icon-bell-55',
-            path: '/notifications'
+            path: '/template/notifications'
           }"
         >
         </sidebar-item>
@@ -45,7 +45,7 @@
           :link="{
             name: $t('sidebar.userProfile'),
             icon: 'tim-icons icon-single-02',
-            path: '/user' }"
+            path: '/template/user' }"
         >
         </sidebar-item>
 
@@ -53,7 +53,7 @@
           :link="{
             name: $t('sidebar.regularTables'),
             icon: 'tim-icons icon-puzzle-10',
-            path: '/regular'
+            path: '/template/regular'
           }"
         ></sidebar-item>
 
@@ -61,7 +61,7 @@
           :link="{
             name: $t('sidebar.typography'),
             icon: 'tim-icons icon-align-center',
-            path: '/typography'
+            path: '/template/typography'
           }"
         ></sidebar-item>
 
@@ -69,7 +69,7 @@
           :link="{
             name: $t('sidebar.rtl'),
             icon: 'tim-icons icon-world',
-            path: localePath('/rtl', 'ar') }"
+            path: localePath('/template/rtl', 'ar') }"
         ></sidebar-item>
 
         <li class="active-pro">

@@ -24,7 +24,11 @@
         </div>
       </div>
 
-      <base-button native-type="submit" type="primary" class="btn-block btn-primary">
+      <base-button
+        native-type="submit"
+        type="primary"
+        class="btn-block btn-primary"
+      >
         Submit
       </base-button>
 

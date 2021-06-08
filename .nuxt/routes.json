@@ -7,46 +7,18 @@
     "_name": "_3485de4e"
   },
   {
-    "name": "google___en",
-    "path": "/google",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\google.vue",
-    "chunkName": "pages/google",
-    "_name": "_5265e626"
+    "name": "pendaftaran___en",
+    "path": "/pendaftaran",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\pendaftaran.vue",
+    "chunkName": "pages/pendaftaran",
+    "_name": "_96a3e984"
   },
   {
-    "name": "icons___en",
-    "path": "/icons",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\icons.vue",
-    "chunkName": "pages/icons",
-    "_name": "_12d2a496"
-  },
-  {
-    "name": "notifications___en",
-    "path": "/notifications",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\notifications.vue",
-    "chunkName": "pages/notifications",
-    "_name": "_4beda938"
-  },
-  {
-    "name": "regular___en",
-    "path": "/regular",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\regular.vue",
-    "chunkName": "pages/regular",
-    "_name": "_327e11d0"
-  },
-  {
-    "name": "rtl___en",
-    "path": "/rtl",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\rtl.vue",
-    "chunkName": "pages/rtl",
-    "_name": "_753f8ce6"
-  },
-  {
-    "name": "starter-page___en",
-    "path": "/starter-page",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\starter-page.vue",
-    "chunkName": "pages/starter-page",
-    "_name": "_7a8e84c1"
+    "name": "Template___en",
+    "path": "/Template",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\index.vue",
+    "chunkName": "pages/Template/index",
+    "_name": "_510680f4"
   },
   {
     "name": "test___en",
@@ -56,60 +28,18 @@
     "_name": "_0ebad474"
   },
   {
-    "name": "typography___en",
-    "path": "/typography",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\typography.vue",
-    "chunkName": "pages/typography",
-    "_name": "_0fa3ea3a"
+    "name": "pendaftaran___ar",
+    "path": "/ar/pendaftaran",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\pendaftaran.vue",
+    "chunkName": "pages/pendaftaran",
+    "_name": "_96a3e984"
   },
   {
-    "name": "user___en",
-    "path": "/user",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\user.vue",
-    "chunkName": "pages/user",
-    "_name": "_2d1af87f"
-  },
-  {
-    "name": "google___ar",
-    "path": "/ar/google",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\google.vue",
-    "chunkName": "pages/google",
-    "_name": "_5265e626"
-  },
-  {
-    "name": "icons___ar",
-    "path": "/ar/icons",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\icons.vue",
-    "chunkName": "pages/icons",
-    "_name": "_12d2a496"
-  },
-  {
-    "name": "notifications___ar",
-    "path": "/ar/notifications",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\notifications.vue",
-    "chunkName": "pages/notifications",
-    "_name": "_4beda938"
-  },
-  {
-    "name": "regular___ar",
-    "path": "/ar/regular",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\regular.vue",
-    "chunkName": "pages/regular",
-    "_name": "_327e11d0"
-  },
-  {
-    "name": "rtl___ar",
-    "path": "/ar/rtl",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\rtl.vue",
-    "chunkName": "pages/rtl",
-    "_name": "_753f8ce6"
-  },
-  {
-    "name": "starter-page___ar",
-    "path": "/ar/starter-page",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\starter-page.vue",
-    "chunkName": "pages/starter-page",
-    "_name": "_7a8e84c1"
+    "name": "Template___ar",
+    "path": "/ar/Template",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\index.vue",
+    "chunkName": "pages/Template/index",
+    "_name": "_510680f4"
   },
   {
     "name": "test___ar",
@@ -119,20 +49,6 @@
     "_name": "_0ebad474"
   },
   {
-    "name": "typography___ar",
-    "path": "/ar/typography",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\typography.vue",
-    "chunkName": "pages/typography",
-    "_name": "_0fa3ea3a"
-  },
-  {
-    "name": "user___ar",
-    "path": "/ar/user",
-    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\user.vue",
-    "chunkName": "pages/user",
-    "_name": "_2d1af87f"
-  },
-  {
     "name": "GeneralViews-NotFoundPage___en",
     "path": "/GeneralViews/NotFoundPage",
     "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
@@ -140,11 +56,123 @@
     "_name": "_09819e78"
   },
   {
+    "name": "Template-google___en",
+    "path": "/Template/google",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\google.vue",
+    "chunkName": "pages/Template/google",
+    "_name": "_4a60bf07"
+  },
+  {
+    "name": "Template-icons___en",
+    "path": "/Template/icons",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\icons.vue",
+    "chunkName": "pages/Template/icons",
+    "_name": "_2f53473c"
+  },
+  {
+    "name": "Template-notifications___en",
+    "path": "/Template/notifications",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\notifications.vue",
+    "chunkName": "pages/Template/notifications",
+    "_name": "_2db06fec"
+  },
+  {
+    "name": "Template-regular___en",
+    "path": "/Template/regular",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\regular.vue",
+    "chunkName": "pages/Template/regular",
+    "_name": "_34b8ef84"
+  },
+  {
+    "name": "Template-rtl___en",
+    "path": "/Template/rtl",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\rtl.vue",
+    "chunkName": "pages/Template/rtl",
+    "_name": "_1ab4a10c"
+  },
+  {
+    "name": "Template-starter-page___en",
+    "path": "/Template/starter-page",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\starter-page.vue",
+    "chunkName": "pages/Template/starter-page",
+    "_name": "_2876bb5b"
+  },
+  {
+    "name": "Template-typography___en",
+    "path": "/Template/typography",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\typography.vue",
+    "chunkName": "pages/Template/typography",
+    "_name": "_38071ffd"
+  },
+  {
+    "name": "Template-user___en",
+    "path": "/Template/user",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\user.vue",
+    "chunkName": "pages/Template/user",
+    "_name": "_36486919"
+  },
+  {
     "name": "GeneralViews-NotFoundPage___ar",
     "path": "/ar/GeneralViews/NotFoundPage",
     "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
     "chunkName": "pages/GeneralViews/NotFoundPage",
     "_name": "_09819e78"
+  },
+  {
+    "name": "Template-google___ar",
+    "path": "/ar/Template/google",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\google.vue",
+    "chunkName": "pages/Template/google",
+    "_name": "_4a60bf07"
+  },
+  {
+    "name": "Template-icons___ar",
+    "path": "/ar/Template/icons",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\icons.vue",
+    "chunkName": "pages/Template/icons",
+    "_name": "_2f53473c"
+  },
+  {
+    "name": "Template-notifications___ar",
+    "path": "/ar/Template/notifications",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\notifications.vue",
+    "chunkName": "pages/Template/notifications",
+    "_name": "_2db06fec"
+  },
+  {
+    "name": "Template-regular___ar",
+    "path": "/ar/Template/regular",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\regular.vue",
+    "chunkName": "pages/Template/regular",
+    "_name": "_34b8ef84"
+  },
+  {
+    "name": "Template-rtl___ar",
+    "path": "/ar/Template/rtl",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\rtl.vue",
+    "chunkName": "pages/Template/rtl",
+    "_name": "_1ab4a10c"
+  },
+  {
+    "name": "Template-starter-page___ar",
+    "path": "/ar/Template/starter-page",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\starter-page.vue",
+    "chunkName": "pages/Template/starter-page",
+    "_name": "_2876bb5b"
+  },
+  {
+    "name": "Template-typography___ar",
+    "path": "/ar/Template/typography",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\typography.vue",
+    "chunkName": "pages/Template/typography",
+    "_name": "_38071ffd"
+  },
+  {
+    "name": "Template-user___ar",
+    "path": "/ar/Template/user",
+    "component": "D:\\\\Latihan\\\\cinta-romantis-version-2\\\\pages\\\\Template\\\\user.vue",
+    "chunkName": "pages/Template/user",
+    "_name": "_36486919"
   },
   {
     "name": "index___en",
